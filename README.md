@@ -13,3 +13,4 @@ so, working on making it a little stronger
 
 might just do bookmarklet, GM is kinda meh and browser-specific
 
+todo why bother with xhr? why not just use canvas to take a picture and glitch that?
